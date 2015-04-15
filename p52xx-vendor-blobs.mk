@@ -79,6 +79,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/common/system/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     $(LOCAL_PATH)/common/system/vendor/lib/libtbd.so:system/vendor/lib/libtbd.so
 
+# Memtrack
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/common/system/vendor/lib/hw/memtrack.clovertrail.so:system/vendor/lib/hw/memtrack.clovertrail.so
+
 ###### FIRMWARES ######
 
 # Wifi
