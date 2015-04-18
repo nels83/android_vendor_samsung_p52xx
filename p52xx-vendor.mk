@@ -13,31 +13,6 @@
 # limitations under the License.
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS += vendor/samsung/p52xx/overlay
-
-# Houdini
-PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-    ro.dalvik.vm.native.bridge=libhoudini.so
-
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.dalvik.vm.isa.arm=x86 \
-    ro.enable.native.bridge.exec=1
-
-PRODUCT_COPY_FILES += \
-    vendor/samsung/p52xx/rootdir/init.houdini.rc:root/init.houdini.rc
-
-# OMX packages
-PRODUCT_PACKAGES += \
-    libstagefrighthw \
-    \
-    libwrs_omxil_core_pvwrapped \
-    \
-    libOMXVideoDecoderAVC \
-    libOMXVideoDecoderH263 \
-    libOMXVideoDecoderMPEG4 \
-    libOMXVideoDecoderWMV \
-    libOMXVideoEncoderAVC \
-    libOMXVideoEncoderH263 \
-    libOMXVideoEncoderMPEG4
+DEVICE_PACKAGE_OVERLAYS := vendor/samsung/p52xx/overlay
 
 $(call inherit-product, vendor/samsung/p52xx/p52xx-vendor-blobs.mk)
