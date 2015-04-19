@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libcorkscrew.so:system/lib/libcorkscrew.so \
     vendor/samsung/p52xx/common/system/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/p52xx/common/system/lib/libsepdrm.so:system/lib/libsepdrm.so \
-    vendor/samsung/p52xx/common/system/lib/libwsbm.so:system/lib/libwsbm.so \
     vendor/samsung/p52xx/common/system/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
     vendor/samsung/p52xx/common/system/lib/libmultidisplayjni.so:system/lib/libmultidisplayjni.so \
     vendor/samsung/p52xx/common/system/lib/libmixvbp.so:system/lib/libmixvbp.so \
@@ -48,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libia_aiq_cp.so:system/lib/libia_aiq_cp.so \
     vendor/samsung/p52xx/common/system/lib/libia_mkn.so:system/lib/libia_mkn.so \
     vendor/samsung/p52xx/common/system/lib/libia_nvm.so:system/lib/libia_nvm.so \
-    vendor/samsung/p52xx/common/system/lib/libintelmetadatabuffer.so:system/lib/libintelmetadatabuffer.so \
     vendor/samsung/p52xx/common/system/lib/libmfldadvci.so:system/lib/libmfldadvci.so \
     vendor/samsung/p52xx/common/system/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/p52xx/common/system/lib/libtbd.so:system/lib/libtbd.so \
