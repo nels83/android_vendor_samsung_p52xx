@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_mpeg4.so:system/lib/libmixvbp_mpeg4.so \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/samsung/p52xx/common/system/lib/pvr_drv_video.so:system/lib/pvr_drv_video.so \
+    vendor/samsung/p52xx/common/system/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/p52xx/common/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/p52xx/common/system/bin/orientationd:system/bin/orientationd \
     vendor/samsung/p52xx/common/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
@@ -61,4 +62,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/etc/firmware/shisp_css15.bin:system/etc/firmware/shisp_css15.bin \
     vendor/samsung/p52xx/common/system/etc/firmware/isp_fr.bin:system/etc/firmware/isp_fr.bin \
     vendor/samsung/p52xx/common/system/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
-    vendor/samsung/p52xx/common/system/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv
+    vendor/samsung/p52xx/common/system/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
+    vendor/samsung/p52xx/common/system/etc/firmware/fw_sst_08e7.bin:system/etc/firmware/fw_sst_08e7.bin
