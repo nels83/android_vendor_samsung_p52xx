@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/bin/orientationd:system/bin/orientationd \
     vendor/samsung/p52xx/common/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/samsung/p52xx/common/system/bin/cpdd:system/bin/cpdd \
-    vendor/samsung/p52xx/common/system/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/p52xx/common/system/lib/libia_aiq.so:system/lib/libia_aiq.so \
     vendor/samsung/p52xx/common/system/lib/libia_aiq_cp.so:system/lib/libia_aiq_cp.so \
     vendor/samsung/p52xx/common/system/lib/libia_mkn.so:system/lib/libia_mkn.so \
