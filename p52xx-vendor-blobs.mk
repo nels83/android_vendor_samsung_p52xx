@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so \
     vendor/samsung/p52xx/common/system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so \
     vendor/samsung/p52xx/common/system/vendor/lib/hw/gralloc.clovertrail.so:system/vendor/lib/hw/gralloc.clovertrail.so \
-    vendor/samsung/p52xx/common/system/lib/libcorkscrew.so:system/lib/libcorkscrew.so \
     vendor/samsung/p52xx/common/system/vendor/lib/libpvr2d.so:system/vendor/lib/libpvr2d.so \
     vendor/samsung/p52xx/common/system/lib/libsepdrm.so:system/lib/libsepdrm.so \
     vendor/samsung/p52xx/common/system/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
