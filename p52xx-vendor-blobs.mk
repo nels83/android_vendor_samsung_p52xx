@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_h264.so:system/lib/libmixvbp_h264.so \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_mpeg4.so:system/lib/libmixvbp_mpeg4.so \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
-    vendor/samsung/p52xx/common/system/lib/pvr_drv_video.so:system/lib/pvr_drv_video.so \
     vendor/samsung/p52xx/common/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/p52xx/common/system/bin/orientationd:system/bin/orientationd \
     vendor/samsung/p52xx/common/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
