@@ -18,6 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/p5200/system/lib/hw/hwcomposer.santos103g.so:system/lib/hw/hwcomposer.santos103g.so \
     vendor/samsung/p52xx/p5200/system/bin/gpsd:system/bin/gpsd \
     vendor/samsung/p52xx/p5200/system/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/p52xx/p5200/system/lib/hw/camera.santos103g.so:system/lib/hw/camera.santos103g.so \
+    vendor/samsung/p52xx/p5200/system/lib/hw/camera.santos103g.so:system/lib/hw/camera.vendor.santos103g.so \
     vendor/samsung/p52xx/p5200/sbin/cbd:root/sbin/cbd \
     vendor/samsung/p52xx/p5200/system/lib/libsec-ril.so:system/lib/libsec-ril.so

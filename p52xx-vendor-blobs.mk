@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/samsung/p52xx/common/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/p52xx/common/system/bin/orientationd:system/bin/orientationd \
-    vendor/samsung/p52xx/common/system/bin/cpdd:system/bin/cpdd \
     vendor/samsung/p52xx/common/system/lib/libia_aiq.so:system/lib/libia_aiq.so \
     vendor/samsung/p52xx/common/system/lib/libia_aiq_cp.so:system/lib/libia_aiq_cp.so \
     vendor/samsung/p52xx/common/system/lib/libia_mkn.so:system/lib/libia_mkn.so \
