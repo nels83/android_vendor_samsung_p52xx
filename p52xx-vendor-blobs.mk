@@ -56,4 +56,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/etc/firmware/isp_fr.bin:system/etc/firmware/isp_fr.bin \
     vendor/samsung/p52xx/common/system/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/p52xx/common/system/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
-    vendor/samsung/p52xx/common/system/etc/firmware/fw_sst_08e7.bin:system/etc/firmware/fw_sst_08e7.bin
+    vendor/samsung/p52xx/common/system/etc/firmware/fw_sst_08e7.bin:system/etc/firmware/fw_sst_08e7.bin \
+    vendor/samsung/p52xx/common/system/etc/firmware/topazsc_fw.bin:system/etc/firmware/topazsc_fw.bin
