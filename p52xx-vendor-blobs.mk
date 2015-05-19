@@ -31,10 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libsepdrm.so:system/lib/libsepdrm.so \
     vendor/samsung/p52xx/common/system/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
     vendor/samsung/p52xx/common/system/lib/libmultidisplayjni.so:system/lib/libmultidisplayjni.so \
-    vendor/samsung/p52xx/common/system/lib/libmixvbp.so:system/lib/libmixvbp.so \
-    vendor/samsung/p52xx/common/system/lib/libmixvbp_h264.so:system/lib/libmixvbp_h264.so \
-    vendor/samsung/p52xx/common/system/lib/libmixvbp_mpeg4.so:system/lib/libmixvbp_mpeg4.so \
-    vendor/samsung/p52xx/common/system/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/samsung/p52xx/common/system/lib/pvr_drv_video.so:system/lib/pvr_drv_video.so \
     vendor/samsung/p52xx/common/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/p52xx/common/system/bin/orientationd:system/bin/orientationd \
