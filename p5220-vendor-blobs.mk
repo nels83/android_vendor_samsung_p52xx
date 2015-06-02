@@ -19,5 +19,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/p5220/system/bin/gpsd:system/bin/gpsd \
     vendor/samsung/p52xx/p5220/system/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/p52xx/p5220/system/lib/hw/camera.santos10lte.so:system/lib/hw/camera.vendor.santos10lte.so \
-    vendor/samsung/p52xx/p5220/sbin/cbd:sbin/cbd \
+    vendor/samsung/p52xx/p5220/sbin/cbd:root/sbin/cbd \
     vendor/samsung/p52xx/p5220/system/lib/libsec-ril.so:system/lib/libsec-ril.so
