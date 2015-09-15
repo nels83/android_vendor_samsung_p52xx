@@ -41,6 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/p52xx/common/system/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/p52xx/common/system/lib/libtbd.so:system/lib/libtbd.so \
     vendor/samsung/p52xx/common/system/vendor/lib/hw/memtrack.clovertrail.so:system/vendor/lib/hw/memtrack.clovertrail.so \
+    vendor/samsung/p52xx/common/system/lib/hw/keystore.clovertrail.so:system/lib/hw/keystore.clovertrail.so \
+    vendor/samsung/p52xx/common/system/lib/libsepkeymaster.so:system/lib/libsepkeymaster.so \
     vendor/samsung/p52xx/common/system/etc/wifi/bcmdhd_apsta.bin_b2:system/etc/wifi/bcmdhd_apsta.bin_b2 \
     vendor/samsung/p52xx/common/system/etc/wifi/bcmdhd_sta.bin_b2:system/etc/wifi/bcmdhd_sta.bin_b2 \
     vendor/samsung/p52xx/common/system/etc/wifi/bcmdhd_p2p.bin_b2:system/etc/wifi/bcmdhd_p2p.bin_b2 \
